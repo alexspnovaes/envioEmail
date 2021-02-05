@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/caeC8tK35uR849LBD34y2mKcxJEjezAQNnhLlMmxtB9bTKgwP4vEHul7W6QddNd3KNnkDRS3hZMuvF5Uo0iqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexandre.novaes\\source\\repos\\informesRendimentos\\informesRendimentos\\informesRendimentos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexandre.novaes\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
+    "C:\\Users\\alexandre.novaes\\.nuget\\packages\\exceldatareader.dataset\\3.6.0\\exceldatareader.dataset.3.6.0.nupkg.sha512",
+    "C:\\Users\\alexandre.novaes\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\alexandre.novaes\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
